@@ -1,0 +1,17 @@
+Done:
+Eliminate unwanted file extensions from movie directory
+Delete empty left-over directories
+Move movie files ONLY from download_directory to movie_directory
+
+
+To Do:
+
+
+Create function that shows the total size of the files deleted
+Have it create a log file to push changes to
+Timestamp changes so that they push to log files
+
+Compact with functions and take out global variables
+  - media sorting (done)
+  - deleting trash (done)
+  - deleting leftover folders (done)

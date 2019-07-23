@@ -1,0 +1,6 @@
+{
+  "movie_directory" : "E:/Videos/Movie Database",
+  "movie_files" : [".avi", ".mp4", ".mkv"],
+  "download_directory" : "E:/Deluge Downloads",
+  "junk_files" : [".txt",".idx", ".sub", ".nfo", ".exe", ".srt", ".bat", ".bin", ".ini", ".dll", ".jpg"]
+}
