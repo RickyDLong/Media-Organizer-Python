@@ -1,7 +1,3 @@
-# Media Database Helper
-This is my first effort to clean up the Media-Organizer I had previously written. This one has a pretty good regex renaming function for both movie files and television files. 
-
-
 
 # Media-Organizer-Python
 
