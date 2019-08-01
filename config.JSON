@@ -1,6 +1,8 @@
 {
-  "movie_directory" : "directoryhere",
-  "movie_files" : [".avi", ".mp4", ".mkv"],
-  "download_directory" : "directoryhere",
-  "junk_files" : [".txt",".idx", ".sub", ".nfo", ".exe", ".srt", ".bat", ".bin", ".ini", ".dll", ".jpg"]
+
+  "movie_directory" : "E:/Videos/Media Database/Movies",
+  "tv_directory" : "E:/Videos/Media Database/Television Shows/Recently Added",
+  "media_files" : [".avi", ".mp4", ".mkv"],
+  "download_directory" : "E:/Deluge Downloads",
+  "junk_files" : [".txt",".idx", ".sub", ".nfo", ".exe", ".srt", ".bat", ".bin", ".ini", ".dll", ".jpg", ".nfo-orig"]
 }
