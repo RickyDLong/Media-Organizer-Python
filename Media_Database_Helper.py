@@ -5,7 +5,7 @@ import re
 import os
 import os.path
 import shutil
-import fnmatch
+
 
 movie_directory = ''
 junk_files = ()
