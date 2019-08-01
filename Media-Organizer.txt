@@ -16,3 +16,24 @@ Compact with functions and take out global variables
   - deleting trash (done)
   - deleting leftover folders (done)
   ____________________________________
+
+Television shows
+
+ - Idea -
+
+ Television shows have a format to them S0xE0x (ex: s02e09)
+
+ The idea here is to find all television shows that are in the same directory as my movie files (because it moves
+ all files of that format there) and organize them into a subdirectory to be found easier inside kodi.
+
+ E:/Movie Folder/Television Shows/showname/season/episode
+
+Todo:
+Create regex string that will detect specifically that format
+  - Move those to television shows movie_directory
+    -figure out how to make the script organize them into individual named folders using regex to detect their show
+     name and season
+
+
+
+Remove All Junk from Download folders they are in

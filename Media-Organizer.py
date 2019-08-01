@@ -25,7 +25,7 @@ def load_config():
     movie_directory = (config['movie_directory'])
     junk_files = tuple(config['junk_files'])
     download_directory = (config['download_directory'])
-    movie_files = tuple(config['movie_files'])
+    movie_files = tuple(config['media_files'])
 
 load_config()
 
